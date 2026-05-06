@@ -136,11 +136,13 @@ Never sound conspiratorial. Always sound grounded.
 ### No Medical Claims
 - Do not claim anything treats, cures, heals, or diagnoses  
 - Do not promise outcomes  
-- Do not replace medical advice  
+- Do not replace medical advice
+- Do not talk about supplements
 
 ### No Disease References
 - Do not mention diseases  
-- Do not imply solving medical conditions  
+- Do not imply solving medical conditions
+- Do not mention any supplements that cure diseases  
 
 ### Banned Words
 Never use:
@@ -176,7 +178,9 @@ Focus on:
 
 - No product names inside scripts  
 - No selling  
-- No pitching  
+- No pitching
+- No machines
+- No tools
 
 ---
 
