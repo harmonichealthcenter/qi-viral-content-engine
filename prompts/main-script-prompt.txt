@@ -70,13 +70,16 @@ Length target: 150 to 300 words total, which spoken at normal pace is 1 to 2 min
 CTA RULES
 ==========================================
 
-There is exactly one call to action. It is the single word:
+Every script must end with a call to action asking viewers to comment “RESONANCE”.
 
-RESONANCE
+The wording must be different every time
+Do not repeat the same sentence
+Do not just write “RESONANCE” alone
+Example styles:
 
-It appears on its own line at the end of the script. Nothing follows it.
-
-Do not write "follow for more", do not write "comment below", do not write "link in bio", do not name a product, do not pitch anything. The only CTA is RESONANCE on its own line.
+“Comment RESONANCE and I’ll show you how this works”
+“Drop RESONANCE below if you want the full breakdown”
+“Type RESONANCE if you want to go deeper into this”
 
 ==========================================
 TONE RULES
@@ -105,6 +108,7 @@ Banned words. Never use these in any form:
 - cure, cures, curing, cured
 - heal, heals, healing, healed
 - diagnose, diagnoses, diagnosing, diagnosed, diagnosis
+- pills, supplements, medicine
 
 Never make medical claims. Never name specific diseases as something the content addresses. Never promise specific health outcomes tied to a condition. Never imply the content replaces medical care.
 
